@@ -1,0 +1,17 @@
+html {
+  background-image: url(../img/background1.jpg);
+}
+.rectangle {
+  width: 800px; /* Ширина  */
+  height: 900px; /* Высота  */
+  background-color: rgba(0, 0, 0, 0.7); 
+  position: fixed; 
+  left: 50%;
+  transform: translateX(-50%); 
+}
+.shrift1 {
+  font-family: monospace;
+  color: white; 
+  text-align: center; 
+  padding: 20px; /* Отступ от границ */
+}
